@@ -120,15 +120,15 @@ export default {
           "callsign": "Raven",
           "alias": "Mórrígan Hackeridoo",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Goblin",
+          "corpro": "HORUS",
+          "frame": "goblin",
           "mech": "Scarlet Judicator"
         },
         {
           "callsign": "Niko",
           "alias": "Nikola Lysander",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "HORUS",
+          "corpro": "wow",
           "frame": "i dont know",
           "mech": "i will find out"
         },
