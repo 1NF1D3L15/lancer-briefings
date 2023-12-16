@@ -166,15 +166,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
+        "planet": "Havelburg",
+        "year": "5016u",
+        "system": "YourMother",
+        "gate": "YerMom",
+        "ring": "Mommy",
+        "headerTitle": "Gays in Space",
+        "headerSubtitle": "Union",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Foxtrot-Uniform-Charlie-Kilo",
       },
       "options":{
         "eventsMarkdownPerMission": true
