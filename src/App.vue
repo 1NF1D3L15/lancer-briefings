@@ -118,7 +118,7 @@ export default {
         },
         {
           "callsign": "Raven",
-          "alias": "Maria",
+          "alias": "Mórrígan Hackeridoo",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
           "frame": "Everest",
@@ -135,6 +135,30 @@ export default {
         {
           "callsign": "Vesper",
           "alias": "Aira Helena",
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Rio Bravo"
+        },
+        {
+          "callsign": "Infidelis",
+          "alias": "Mary Mei",
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Rio Bravo"
+        },
+        {
+          "callsign": "Soldat",
+          "alias": "Jamie Star",
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Rio Bravo"
+        },
+        {
+          "callsign": "Asfi",
+          "alias": "Sienna Bianchi",
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
           "corpro": "GMS",
           "frame": "Everest",
