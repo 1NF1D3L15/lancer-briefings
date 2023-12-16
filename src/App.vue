@@ -96,7 +96,7 @@ export default {
         {
           "slug": "003",
           "name": "DUSTGRAVE",
-          "status": "finish"
+          "status": "start"
         },
       ],
       "pilots": [
@@ -112,9 +112,9 @@ export default {
           "callsign": "Crown",
           "alias": "REDACTED",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Necrophile"
+          "corpro": "SSC",
+          "frame": "Monarch",
+          "mech": "N/A"
         },
         {
           "callsign": "Raven",
@@ -128,41 +128,41 @@ export default {
           "callsign": "Niko",
           "alias": "Nikola Lysander",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "wow",
-          "frame": "i dont know",
-          "mech": "i will find out"
+          "corpro": "HA",
+          "frame": "Enkidu",
+          "mech": "Bloodnaut"
         },
         {
           "callsign": "Vesper",
           "alias": "Aira Helena",
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "corpro": "HA",
+          "frame": "Tokugawa",
+          "mech": "U235"
         },
         {
           "callsign": "Infidelis",
           "alias": "Mary Mei",
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "corpro": "SSC",
+          "frame": "Emperor",
+          "mech": "xX_1M155H3R_Xx"
         },
         {
           "callsign": "Soldat",
           "alias": "Jamie Star",
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "corpro": "Horus",
+          "frame": "Pegasus",
+          "mech": "Häyhä"
         },
         {
           "callsign": "Asfi",
           "alias": "Sienna Bianchi",
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "corpro": "SSC",
+          "frame": "Mourning Cloak",
+          "mech": "Hawk of the Fog"
         },
       ],
       "header": {
