@@ -174,7 +174,7 @@ export default {
         "headerTitle": "Gays in Space",
         "headerSubtitle": "Union",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Foxtrot-Uniform-Charlie-Kilo",
+        "subheaderSubtitle": "Sierra-Echo-X-ray",
       },
       "options":{
         "eventsMarkdownPerMission": true
