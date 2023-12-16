@@ -96,7 +96,7 @@ export default {
         {
           "slug": "003",
           "name": "DUSTGRAVE",
-          "status": "start"
+          "status": "finish"
         },
       ],
       "pilots": [
