@@ -1,4 +1,4 @@
-let title = document.title
+const tabTitle = document.title;
 window.addEventListener('blur', () => {
   document.title = 'Come Back Please :('
 })
