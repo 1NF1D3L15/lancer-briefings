@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "003",
-          "name": "DUSTGRAVE",
+          "name": "NONE",
           "status": "start"
         },
       ],
