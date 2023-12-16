@@ -1,11 +1,11 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100%" viewBox="0 0 800 600" enable-background="new 0 0 800 600" xml:space="preserve">
-<path fill="#FFFFFF" opacity="1.000000" stroke="none" 
-	d="
-M800.460571,601.000000 
-	C533.614075,601.000000 267.307037,601.000000 1.019791,601.000000 
-	C1.019791,400.962402 1.019791,200.981201 1.019791,1.008561 
-	C267.693054,1.008561 534.346558,1.008561 801.000000,1.012842 
-	C801.000000,201.011414 801.000000,401.005707 800.460571,601.000000 
-z"/>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="551.000000pt" height="518.000000pt" viewBox="0 0 551.000000 518.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,518.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+</g>
 </svg>
