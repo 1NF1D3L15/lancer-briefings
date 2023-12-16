@@ -96,7 +96,7 @@ export default {
         {
           "slug": "003",
           "name": "NONE",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
