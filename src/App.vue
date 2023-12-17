@@ -170,7 +170,7 @@ export default {
           "code": "d13fs66e-d81e-4e10-97c8-d4b2c4832442///NDL-C-DEEP-STATION//51dw231a-91f2-44ga-a234-23e6g21e1tc3",
           "corpro": "IPS-N",
           "frame": "Drake",
-          "mech": "REDACTED"
+          "mech": "Turtle Soup"
         },
       ],
       "header": {
